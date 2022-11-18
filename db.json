@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Vikas",
+      "lastname": "Babu",
+      "email": "vicky@gmail.com",
+      "mobile": "75593459567",
+      "salary": "30000"
+    },
+    {
+      "id": 2,
+      "firstname": "Sharad",
+      "lastname": "Pawar",
+      "email": "sharad@gmail.com",
+      "mobile": "5445678678",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "firstname": "Deepak",
+      "lastname": "Wayal",
+      "email": "deepakwayal5@gmail.com",
+      "mobile": "7559249969",
+      "salary": "70000"
+    },
+    {
+      "id": 4,
+      "firstname": "Shubham",
+      "lastname": "Wayal",
+      "email": "shuwayal@gmail.com",
+      "mobile": "3446578748",
+      "salary": "60000"
+    },
+    {
+      "id": 5,
+      "firstname": "Sanket",
+      "lastname": "Jadhao",
+      "email": "sanket@gmail.com",
+      "mobile": "3223454567",
+      "salary": "90000"
+    },
+    {
+      "id": 7,
+      "firstname": "Priti",
+      "lastname": "Patil",
+      "email": "priti@gmail.com",
+      "mobile": "2332345678",
+      "salary": "700000"
+    },
+    {
+      "id": 8,
+      "firstname": "Vinay",
+      "lastname": "Gaikwad",
+      "email": "vinaygaikwad@gmail.com",
+      "mobile": "5445678750",
+      "salary": "800000"
+    },
+    {
+      "id": 9,
+      "firstname": "Yash",
+      "lastname": "Gaikwad",
+      "email": "dfdfdfd",
+      "mobile": "45567498089",
+      "salary": "600000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Sashi Yadav",
+      "email": "sashi@gmail.com",
+      "password": "334244",
+      "mobile": 4334565678,
+      "id": 1
+    },
+    {
+      "fullname": "Deepak Wayal",
+      "email": "deepakwayal5@gmail.com",
+      "password": "1234",
+      "mobile": 7559249969,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
